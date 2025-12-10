@@ -1,0 +1,6 @@
+numpy
+torch
+sentence-transformers
+faiss-cpu
+matplotlib
+tk
